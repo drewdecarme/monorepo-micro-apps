@@ -9,8 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@my-company/components": "file:../components",
+    "@my-company/components": "*",
     "@my-company/utils": "*",
+    "@my-company/app-mfe": "*",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "sass": "^1.60.0"
